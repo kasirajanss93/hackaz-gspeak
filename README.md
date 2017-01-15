@@ -9,6 +9,7 @@ We have developed an application to recognize gestures, translate them to text a
 
 * Leap Motion Device
 * Amazon Echo
+* A desktop/laptop/raspberry pi to interface Leap Motion and communicate with the server.
 
 #### Software Requirements:
 
